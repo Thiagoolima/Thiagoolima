@@ -5,6 +5,7 @@
 - 👯 Futuramente pretendo colaborar com projetos open source
 - 🤔 Estou postando alguns repositórios de projetos autorais que estou desenvolvendo, fiquem a vontade para enviar feedbacks, fazer clones e pull request.
 - [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagooliveiradelima/)
+  [![linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5561994603826&text&type=phone_number&app_absent=0)
 
 <br/>
 
